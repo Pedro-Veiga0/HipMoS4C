@@ -1,0 +1,16 @@
+Timestamp,Training_Time_Sec,Category,Backbone,Layers_Used,Coreset_Ratio,KNN,Image_AUROC,Pixel_AUROC,AUPRO,AUPIMO,Memory_Bank_MB
+2026-10-13 11:02:38,"132,87",bottle object,wide_resnet50_2,"layer2, layer3","0,1",9,1,"0,9855","0,9445","0,9944","125,4"
+2026-10-13 11:05:48,"154,32",cable object,wide_resnet50_2,"layer2, layer3","0,1",9,"0,985","0,9848","0,9302","0,4612","134,4"
+2026-10-13 11:08:47,"145,16",capsule object,wide_resnet50_2,"layer2, layer3","0,1",9,"0,9924","0,9901","0,9342","0,8198","131,4"
+2026-10-13 11:14:58,"343,29",hazelnut object,wide_resnet50_2,"layer2, layer3","0,1",9,1,"0,9883","0,953","0,9532","234,6"
+2026-10-13 11:17:39,"137,55",metal_nut object,wide_resnet50_2,"layer2, layer3","0,1",9,"0,9976","0,987","0,9415","0,7915",132
+2026-10-13 11:21:20,"184,11",pill object,wide_resnet50_2,"layer2, layer3","0,1",9,"0,9394","0,9816","0,9512","0,3428","160,2"
+2026-10-13 11:26:03,"253,86",screw object,wide_resnet50_2,"layer2, layer3","0,1",9,"0,9635","0,989","0,9381","0,4266",192
+2026-10-13 11:27:43,"87,47",toothbrush object,wide_resnet50_2,"layer2, layer3","0,1",9,"0,9167","0,9888","0,8827","0,4222",36
+2026-10-13 11:30:28,"139,09",transistor object,wide_resnet50_2,"layer2, layer3","0,1",9,"0,995","0,9733","0,9461","0,5135","127,8"
+2026-10-13 11:33:34,"159,58",zipper object,wide_resnet50_2,"layer2, layer3","0,1",9,"0,9772","0,9815","0,9351","0,3947",144
+2026-10-13 11:37:33,"214,5",carpet texture,wide_resnet50_2,"layer2, layer3","0,1",9,"0,9864","0,9907","0,9479","0,898",168
+2026-10-13 11:40:15,"145,66",grid texture,wide_resnet50_2,"layer2, layer3","0,1",9,"0,9916","0,9815","0,9101","0,6786","158,4"
+2026-10-13 11:43:28,"165,1",leather texture,wide_resnet50_2,"layer2, layer3","0,1",9,1,"0,9922","0,9752",1,147
+2026-10-13 11:46:22,"150,37",tile texture,wide_resnet50_2,"layer2, layer3","0,1",9,1,"0,9554","0,8635","0,8944",138
+2026-10-13 11:49:24,"160,8",wood texture,wide_resnet50_2,"layer2, layer3","0,1",9,"0,9868","0,9316","0,8858","0,6653","148,2"
