@@ -1,1 +1,1 @@
-This folder was created for results.
+Excel files from google sheets containing training results
