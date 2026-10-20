@@ -1,0 +1,61 @@
+Timestamp,Training_Time_Sec,Category,Backbone,Layers_Used,Coreset_Ratio,KNN,Image_AUROC,Pixel_AUROC,AUPRO,AUPIMO,Memory_Bank_MB
+2026-09-26 11:24:26,"79,33",bottle object,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,1,"0,9928","0,973","0,9302","62,7"
+2026-09-26 11:25:17,"25,71",bottle object,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,1,"0,9921","0,9709","0,9145","62,7"
+2026-09-26 11:26:10,"26,14",bottle object,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,1,"0,9926","0,9716","0,9075","62,7"
+2026-09-26 11:27:03,"26,15",bottle object,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,1,"0,9922","0,9716","0,8947","41,8"
+2026-09-26 11:30:15,"146,01",cable object,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,"0,9972","0,9883","0,9551","0,5045","67,2"
+2026-09-26 11:31:36,"34,21",cable object,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,"0,9976","0,9856","0,9466","0,6626","67,2"
+2026-09-26 11:32:57,"34,24",cable object,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,"0,9989","0,9887","0,9544","0,5773","67,2"
+2026-09-26 11:34:17,"33,93",cable object,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,"0,9944","0,9864","0,9504","0,4646","44,8"
+2026-09-26 11:37:08,"126,6",capsule object,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,"0,9793","0,9856","0,9483","0,5019","65,7"
+2026-09-26 11:38:26,"32,59",capsule object,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,"0,9785","0,9847","0,9452","0,393","65,7"
+2026-09-26 11:39:44,"32,91",capsule object,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,"0,9685","0,9855","0,9505","0,3433","65,7"
+2026-09-26 11:41:01,"32,86",capsule object,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,"0,9633","0,9856","0,9337","0,3648","43,8"
+2026-09-26 11:43:42,"123,08",hazelnut object,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,"0,9989","0,9941","0,9695","0,8874","117,29"
+2026-09-26 11:45:13,"52,91",hazelnut object,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,"0,9986","0,9948","0,9697","0,9132","117,29"
+2026-09-26 11:46:43,"52,57",hazelnut object,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,"0,9996","0,9917","0,9591","0,8252","117,29"
+2026-09-26 11:48:14,"52,64",hazelnut object,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,"0,9989","0,9925","0,9621","0,8305","78,2"
+2026-09-26 11:50:43,"115,13",metal_nut object,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,1,"0,9834","0,9502","0,8633",66
+2026-09-26 11:51:46,"29,49",metal_nut object,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,1,"0,9853","0,9521","0,8743",66
+2026-09-26 11:52:52,"31,23",metal_nut object,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,1,"0,9804","0,9504","0,8772",66
+2026-09-26 11:53:57,"30,59",metal_nut object,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,1,"0,9796","0,9492","0,8961",44
+2026-09-26 11:57:15,"148,74",pill object,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,"0,9921","0,9639","0,9673","0,6316","80,1"
+2026-09-26 11:58:44,"40,11",pill object,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,"0,9905","0,9677","0,9684","0,6389","80,1"
+2026-09-26 12:00:14,"39,7",pill object,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,"0,9866","0,9652","0,9614","0,5357","80,1"
+2026-09-26 12:01:42,"39,6",pill object,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,"0,9905","0,9652","0,9604","0,553","53,4"
+2026-09-26 12:04:40,"135,75",screw object,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,"0,9217","0,9787","0,8943","0,2146",96
+2026-09-26 12:06:10,"47,32",screw object,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,"0,9326","0,9811","0,9036","0,2411",96
+2026-09-26 12:07:38,"45,82",screw object,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,"0,9141","0,9715","0,8622","0,1451",96
+2026-09-26 12:09:05,"45,45",screw object,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,"0,8901","0,9718","0,8719","0,1767",64
+2026-09-26 12:10:55,"89,93",toothbrush object,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,"0,9028","0,9886","0,9389","0,0824",18
+2026-09-26 12:11:31,"15,82",toothbrush object,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,"0,925","0,9885","0,9416","0,0947",18
+2026-09-26 12:12:08,"15,79",toothbrush object,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,"0,8722","0,9883","0,9336","0,063",18
+2026-09-26 12:12:44,"15,92",toothbrush object,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,"0,8778","0,9879","0,9309","0,0624",12
+2026-09-26 12:15:25,"124,8",transistor object,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,"0,9608","0,9529","0,9132","0,2398","63,89"
+2026-09-26 12:16:31,"29,26",transistor object,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,"0,9762","0,962","0,9216","0,3323","63,89"
+2026-09-26 12:17:38,"31,29",transistor object,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,"0,9708","0,9659","0,932","0,2518","63,89"
+2026-09-26 12:18:43,"28,62",transistor object,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,"0,9713","0,9611","0,9259","0,3476","42,59"
+2026-09-26 12:21:52,"150,09",zipper object,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,1,"0,9803","0,9468","0,7111",72
+2026-09-26 12:23:05,"33,74",zipper object,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,"0,9997","0,9764","0,9418","0,8141",72
+2026-09-26 12:24:19,"34,33",zipper object,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,"0,9958","0,9729","0,9303","0,66",72
+2026-09-26 12:25:32,"34,23",zipper object,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,"0,9979","0,9726","0,9308","0,5775",48
+2026-09-26 12:28:27,"138,91",carpet texture,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,"0,9984","0,9956","0,9834","0,7178",84
+2026-09-26 12:29:42,"39,44",carpet texture,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,"0,9992","0,9951","0,9811","0,7765",84
+2026-09-26 12:30:56,"37,91",carpet texture,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,"0,9988","0,9955","0,984","0,8237",84
+2026-09-26 12:32:08,"37,03",carpet texture,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,"0,9988","0,9954","0,9841","0,8226",56
+2026-09-26 12:34:32,"118,09",grid texture,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,1,"0,9894","0,9651","0,9483","79,2"
+2026-09-26 12:35:32,"33,78",grid texture,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,1,"0,9895","0,9626","0,9672","79,2"
+2026-09-26 12:36:31,"33,82",grid texture,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,1,"0,9894","0,9606","0,8352","79,2"
+2026-09-26 12:37:30,"33,91",grid texture,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,"0,9992","0,9888","0,959","0,8727","52,8"
+2026-09-26 12:40:16,"128,48",leather texture,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,1,"0,9943","0,9787","0,9993","73,5"
+2026-09-26 12:41:27,"32,78",leather texture,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,1,"0,9947","0,9817","0,9993","73,5"
+2026-09-26 12:42:39,"33,07",leather texture,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,1,"0,9952","0,9832","0,9999","73,5"
+2026-09-26 12:43:49,"32,49",leather texture,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,1,"0,9953","0,9849",1,49
+2026-09-26 12:46:28,"124,79",tile texture,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,1,"0,9721","0,918","0,9464",69
+2026-09-26 12:47:33,"30,57",tile texture,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,1,"0,9763","0,9294","0,9728",69
+2026-09-26 12:48:38,"30,46",tile texture,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,1,"0,9733","0,919","0,9356",69
+2026-09-26 12:49:43,"30,57",tile texture,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,1,"0,9744","0,9195","0,9227",46
+2026-09-26 12:52:11,"116,96",wood texture,vit_large_patch16_dinov3,"blocks.1, blocks.11, blocks.21","0,1",9,1,"0,9566","0,9373","0,822","74,1"
+2026-09-26 12:53:15,"33,16",wood texture,vit_large_patch16_dinov3,"blocks.19, blocks.20, blocks.9","0,1",9,"0,9912","0,9593","0,9427","0,6572","74,1"
+2026-09-26 12:54:18,"32,76",wood texture,vit_large_patch16_dinov3,"blocks.10, blocks.13, blocks.6","0,1",9,"0,9982","0,9632","0,9393","0,6234","74,1"
+2026-09-26 12:55:22,"32,9",wood texture,vit_large_patch16_dinov3,"blocks.13, blocks.8","0,1",9,"0,9982","0,9602","0,935","0,696","49,4"
